@@ -1,0 +1,68 @@
+const products = [
+  {
+    name: 'The Parisien Quilted Bag',
+    image: 'https://images.unsplash.com/photo-1584916201218-f4242ceb4809?q=80&w=600&auto=format&fit=crop',
+    description: 'A masterpiece of craftsmanship. The Parisien Quilted Bag combines timeless elegance with modern practicality. Features gold-tone hardware and a chain strap.',
+    category: 'Bags',
+    price: 2450.00,
+    stock: 10,
+  },
+  {
+    name: 'Silk Monogram Scarf',
+    image: 'https://images.unsplash.com/photo-1601924994987-69e26d50dc26?q=80&w=600&auto=format&fit=crop',
+    description: '100% pure silk scarf featuring our signature monogram. A versatile accessory that adds a touch of luxury to any ensemble.',
+    category: 'Scarves',
+    price: 450.00,
+    stock: 25,
+  },
+  {
+    name: 'Oversized Editorial Sunglasses',
+    image: 'https://images.unsplash.com/photo-1511499767150-a48a237f0083?q=80&w=600&auto=format&fit=crop',
+    description: 'Make a statement with these oversized frames. UV protection meets high fashion.',
+    category: 'Glasses',
+    price: 320.00,
+    stock: 0,
+  },
+  {
+    name: 'Classic Leather Belt',
+    image: 'https://images.unsplash.com/photo-1627123424574-724758594e93?q=80&w=600&auto=format&fit=crop',
+    description: 'Crafted from full-grain Italian leather, featuring a minimalist geometric buckle.',
+    category: 'Belts',
+    price: 280.00,
+    stock: 15,
+  },
+  {
+    name: 'Cashmere Blend Trench Coat',
+    image: 'https://images.unsplash.com/photo-1591047139829-d91aecb6caea?q=80&w=600&auto=format&fit=crop',
+    description: 'An iconic silhouette redefined. This cashmere blend trench offers warmth without compromising on the sleek, Parisian-inspired structure.',
+    category: 'Outerwear',
+    price: 1850.00,
+    stock: 5,
+  },
+  {
+    name: 'Sculptural Pearl Drop Earrings',
+    image: 'https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?q=80&w=600&auto=format&fit=crop',
+    description: 'Modern art you can wear. Asymmetric pearls suspended from 18k gold-plated brass hoops.',
+    category: 'Jewelry',
+    price: 490.00,
+    stock: 12,
+  },
+  {
+    name: 'Suede Ankle Boots',
+    image: 'https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=600&auto=format&fit=crop',
+    description: 'The perfect transitional boot. Handcrafted suede with a subtle stiletto heel and pointed toe.',
+    category: 'Shoes',
+    price: 890.00,
+    stock: 8,
+  },
+  {
+    name: 'Minimalist Gold Cuff',
+    image: 'https://images.unsplash.com/photo-1611591437281-460bfbe1220a?q=80&w=600&auto=format&fit=crop',
+    description: 'A striking statement piece. Solid 14k gold cuff designed for everyday elegance.',
+    category: 'Jewelry',
+    price: 1200.00,
+    stock: 3,
+  },
+];
+
+export default products;
